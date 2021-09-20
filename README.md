@@ -68,7 +68,7 @@ This is a simple .NET console app that prints out the current time.
 
  - [./EXEC](./EXEC):
 
-  - Executable of C# application 
+   - Executable of C# application 
 
 ## Challenges (Optional) - Any number of these questions may be answered!
 
@@ -90,7 +90,7 @@ A compiled version of the app is available in the EXEC folder for easibility.
 
 ### B. Create an Infrastructure Diagram for these services
 
-Development requiremnet is as follows:
+Development requirement is as follows:
 
 1.  **1 frontEnd service**
 2.  **1 backend service**
